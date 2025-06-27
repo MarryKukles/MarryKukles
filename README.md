@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Oi, eu sou a Duda! 🌟</h1>
+<h1 align="center">Olá!👋, sou a Duda! </h1>
 <p align="center">
 Estudante de Engenharia de Software | QA | Apaixonada por tech |
 </p>
