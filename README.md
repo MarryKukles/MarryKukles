@@ -30,7 +30,7 @@ Estudante de Engenharia de Software | QA | Apaixonada por tech |
 
 ## 💻 Projeto em destaque:
 
-🏦 **Qbank**  
+🏦 **[Qbank](https://github.com/Provezanovsky/sistema-contas-bancarias-QBANK)**  
 `Java | TDD | CI | GitHub | Jira`  
 Sistema de gerenciamento de contas bancárias, com foco em testes e integração contínua.
 
