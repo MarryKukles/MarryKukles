@@ -8,7 +8,7 @@ Estudante de Engenharia de Software | QA | Apaixonada por tech |
 ## 👑 Sobre mim
 
 - 🎓 Cursando Engenharia de Software
-- 🚀 **Áreas de interesse:** QA | Back-end e Front-End | Cibersegurança (foco em pentest) 
+- 🚀 **Áreas de interesse:** QA | Desenvolvimento Back-end e Front-End | Cibersegurança (foco em pentest) 
 - 🌈 **Pronome:** ela/dela
 
 ---
