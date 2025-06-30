@@ -54,7 +54,7 @@ Sistema de gerenciamento de contas bancárias, com foco em testes e integração
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU-LINKEDIN/](https://www.linkedin.com/in/medmorais/ )
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/medmorais/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:modias643@gmail.com)
 
 ---
