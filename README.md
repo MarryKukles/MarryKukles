@@ -47,7 +47,7 @@ Sistema de gerenciamento de contas bancárias, com foco em testes e integração
 
 ## 📚 Em aprendizado
 
-- ⚙️ Testes automatizados (Orange Testing, Selenium)
+- ⚙️ Testes automatizados (Orange Testing, Playwright)
 - 📱 Mobile dev (explorando Flutter / React Native)
 
 ---
