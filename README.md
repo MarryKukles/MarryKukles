@@ -36,15 +36,6 @@ Sistema de gerenciamento de contas bancárias, com foco em testes e integração
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarryKukles&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarryKukles&layout=compact&theme=radical"/>
-</div>
-
----
-
 ## 📚 Em aprendizado
 
 - ⚙️ Testes automatizados (Orange Testing, Playwright)
